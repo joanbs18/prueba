@@ -9,5 +9,7 @@ package git;
  * @author joans
  */
 public class Persona {
-    
+    private int codigo;
+    private String nombre;
+    private String direccion;
 }
